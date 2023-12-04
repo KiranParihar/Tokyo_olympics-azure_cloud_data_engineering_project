@@ -29,6 +29,6 @@ The objective of this project is to take the raw data of Tokyo Olympics and tran
 ## Architectural Diagram:
 ![Architectural_diagram](https://github.com/KiranParihar/Tokyo_olympics-azure_cloud_data_engineering_project/blob/main/Architectural_diagram.png)
 
-## Link to the Live Dashboard:
+## Link to the Interactive Dashboard:
 **[Tokyo-Olympics-Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYTFmOTA4Y2ItMjBiZi00NWRiLWJkZWEtZTcwMzVjZWJlYmM5IiwidCI6IjcxNTE2MzQyLTZhODMtNGVmMy1iNTk1LTkyMWJkYmFlMWQwZCJ9)**
 
